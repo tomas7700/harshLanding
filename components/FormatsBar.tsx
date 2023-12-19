@@ -6,7 +6,7 @@ import React from 'react'
 function FormatsBar() {
     return (
 
-        <div className=' relative h-[60px] w-full  flex flex-row bg-white  '>
+        <div className=' relative h-[60px] w-full  flex flex-row bg-[#cccaca]  '>
             <div className='  px-3 flex items-center justify-start'>
                 <p className='lg:text-2xl md:text-md text-sm text-gray-600 font-light'>Video formats I  use </p>
             </div>

@@ -34,7 +34,7 @@ function Steps() {
 
       <div className=' flex justify-center items-center'>
         <Link href='http://wa.link/6ybp9f'>
-          <Button variant='landing'>Contact Me Now </Button>
+          <Button variant="secondary">Contact Me Now </Button>
         </Link>
       </div>
 

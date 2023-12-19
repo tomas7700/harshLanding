@@ -28,7 +28,7 @@ function About() {
           </p>
           
           <Link href='http://wa.link/6ybp9f'>
-          <Button variant='landing'> Get In Touch With Me Now </Button>
+          <Button variant='secondary'> Get In Touch With Me Now </Button>
           </Link>
   
         </div>

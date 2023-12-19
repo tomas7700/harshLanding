@@ -21,7 +21,7 @@ function Testimonials() {
 </div>
 <div className='h-[20%] flex justify-center items-center'>
 <Link href='http://wa.link/6ybp9f'>
-          <Button variant='landing'> Get Started Now </Button>
+          <Button variant='secondary'> Get Started Now </Button>
           </Link>
 </div>
     </div>

@@ -23,7 +23,7 @@ function Hero() {
         </iframe>
         <div className='flex flex-col gap-9 items-center w-full'>
         <Link href='http://wa.link/6ybp9f'>
-          <Button variant='landing'> Get Started Now </Button>
+          <Button variant='secondary'> Get Started Now </Button>
           </Link>
         <FormatsBar/>
      

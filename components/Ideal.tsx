@@ -21,7 +21,7 @@ function Ideal() {
 
     <div className='flex items-center justify-center'>
     <Link href='http://wa.link/6ybp9f'>
-          <Button variant='landing'> Started Now With Me </Button>
+          <Button variant='secondary'> Started Now With Me </Button>
           </Link>
 </div>
 
